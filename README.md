@@ -1,1 +1,1 @@
-# YosiTraninig- new Test
+# YosiTraninig- new Test from git
