@@ -1,0 +1,290 @@
+[
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1573651579000,
+            "changeTime": 1573651734084,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1573650645000,
+            "changeTime": 1573650645337,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1573738455667,
+            "changeTime": 1573738455667,
+            "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640369,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640330,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1573738455654,
+            "changeTime": 1573738455654,
+            "contentHash": "c485bf41f11373c38fe47b63e8d737ba45ea8321"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640406,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640365,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640384,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1573650645000,
+            "changeTime": 1573650645350,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640350,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640327,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640335,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640338,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/triggers",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1573650640000,
+            "changeTime": 1573650640348,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1573738142000,
+            "changeTime": 1573738142725,
+            "contentHash": "a9bbcef79e542b4ccf3cf5b1b499275b31da1d4b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/classes/Intro.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/classes/Intro.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1573738455652,
+            "changeTime": 1573738455652,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/classes/Intro.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/classes/Intro.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1573738455654,
+            "changeTime": 1573738455654,
+            "contentHash": "3e8c03d85b06241cf757db3a5061ae793a1a8e95"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19653,
+            "modifiedTime": 1573738455677,
+            "changeTime": 1573738455677,
+            "contentHash": "fae1b124e28741c305a95973e7972e3bcf423c64"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS_Code/YosiTranining/YosiTraninig-/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1573738455676,
+            "changeTime": 1573738455676,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
